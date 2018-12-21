@@ -43,7 +43,9 @@ Most of the libs will be by default come with Anaconda Python.
 We will be using following imports in our workshop
 
 import numpy as np
+
 import pandas as pd
+
 import matplotlib.pyplot as plt
 import seaborn as sns
 from keras.models import Sequential
